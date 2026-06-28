@@ -36,7 +36,7 @@ Seaborn
 Jupyter Notebook
 
 Proceso de análisis
-1. Limpieza de datos
+Limpieza de datos
 
 Se realizaron las siguientes actividades:
 
@@ -47,7 +47,7 @@ Corrección del valor centinela -999 en la variable age.
 Detección y tratamiento de valores atípicos mediante el método del Rango Intercuartílico (IQR).
 Estandarización de variables para garantizar la consistencia del análisis.
 
-2. Análisis exploratorio (EDA)
+Análisis exploratorio (EDA)
 
 Durante el análisis se realizaron:
 
@@ -60,21 +60,25 @@ Clasificación del nivel de uso (Bajo, Medio y Alto).
 Comparación del comportamiento de consumo entre planes.
 Visualización mediante histogramas, diagramas de caja y gráficos de barras.
 
-Principales hallazgos
+Principales hallazgos:
+
 El plan Básico es el producto con mayor número de clientes en todos los segmentos de edad y niveles de uso.
 La categoría de uso medio concentra la mayor parte de los usuarios durante 2024.
 Dentro del nivel de uso medio, aproximadamente 1,800 clientes pertenecen al plan Básico, mientras que cerca de 1,000 usuarios utilizan el plan Premium.
 El segmento de adultos (30 a 59 años) representa la mayor proporción de la cartera de clientes y concentra principalmente usuarios con niveles de consumo bajo y medio.
 Los usuarios menores de 60 años con uso medio del plan Básico constituyen la base más sólida de clientes de Connecta Tel.
 
-Recomendaciones 
+Recomendaciones:
+
 Utilizar el plan Básico como producto de entrada para atraer nuevos clientes, ya que presenta la mayor aceptación en todos los segmentos analizados.
 Implementar estrategias de upselling para migrar clientes del plan Básico hacia el plan Premium o servicios adicionales de mayor valor.
 Diseñar campañas específicas para usuarios con uso medio, debido a que representan el segmento más numeroso y con mayor potencial de crecimiento.
 Desarrollar programas de fidelización dirigidos a los clientes menores de 60 años del plan Básico para fortalecer la retención y aumentar el valor del cliente a largo plazo.
 
 Estructura del proyecto
+
 ├── S7 Version-Estudiante-Project-ConnectaTel.ipynb
+
 ├── README.md
 
 Conclusión
